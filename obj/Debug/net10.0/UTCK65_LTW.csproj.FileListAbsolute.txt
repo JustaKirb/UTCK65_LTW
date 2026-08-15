@@ -1,0 +1,15 @@
+D:\Code\UTCK65_LTW\bin\Debug\net10.0\UTCK65_LTW.exe
+D:\Code\UTCK65_LTW\bin\Debug\net10.0\UTCK65_LTW.deps.json
+D:\Code\UTCK65_LTW\bin\Debug\net10.0\UTCK65_LTW.runtimeconfig.json
+D:\Code\UTCK65_LTW\bin\Debug\net10.0\UTCK65_LTW.dll
+D:\Code\UTCK65_LTW\bin\Debug\net10.0\UTCK65_LTW.pdb
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\UTCK65_LTW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\UTCK65_LTW.AssemblyInfoInputs.cache
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\UTCK65_LTW.AssemblyInfo.cs
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\UTCK65_LTW.csproj.CoreCompileInputs.cache
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\UTCK65_LTW.sourcelink.json
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\UTCK65_LTW.dll
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\refint\UTCK65_LTW.dll
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\UTCK65_LTW.pdb
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\UTCK65_LTW.genruntimeconfig.cache
+D:\Code\UTCK65_LTW\obj\Debug\net10.0\ref\UTCK65_LTW.dll
