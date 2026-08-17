@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\UTCK65_LTW\\UTCK65_LTW.csproj": {}
+    "D:\\Code\\UTCK65_LTW\\StudentManagement\\UTCK65_LTW.csproj": {}
   },
   "projects": {
-    "D:\\Code\\UTCK65_LTW\\UTCK65_LTW.csproj": {
+    "D:\\Code\\UTCK65_LTW\\StudentManagement\\UTCK65_LTW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\UTCK65_LTW\\UTCK65_LTW.csproj",
+        "projectUniqueName": "D:\\Code\\UTCK65_LTW\\StudentManagement\\UTCK65_LTW.csproj",
         "projectName": "UTCK65_LTW",
-        "projectPath": "D:\\Code\\UTCK65_LTW\\UTCK65_LTW.csproj",
+        "projectPath": "D:\\Code\\UTCK65_LTW\\StudentManagement\\UTCK65_LTW.csproj",
         "packagesPath": "C:\\Users\\Golde\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\UTCK65_LTW\\obj\\",
+        "outputPath": "D:\\Code\\UTCK65_LTW\\StudentManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

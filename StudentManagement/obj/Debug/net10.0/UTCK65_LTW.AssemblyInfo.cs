@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTCK65_LTW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+236d65c452d4a49759d022cb5e52e3048d596297")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b86f7ab06825d44d125989b5423e993200c5769f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTCK65_LTW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTCK65_LTW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
