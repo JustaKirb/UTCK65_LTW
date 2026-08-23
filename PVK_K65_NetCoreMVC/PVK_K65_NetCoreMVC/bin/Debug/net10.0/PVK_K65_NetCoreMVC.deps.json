@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PVK_K65_NetCoreMVC/1.0.0": {
+        "runtime": {
+          "PVK_K65_NetCoreMVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PVK_K65_NetCoreMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
