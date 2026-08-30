@@ -27,26 +27,30 @@
             </div>
         </div>
     </div>
-    <div class="col-md-7 justify-content-around">
-        @foreach (var product in products)
-        {
-            <div class="card" style="width: 18rem;">
-                <img src="@product.Images" class="card-img-top" alt="@product.ProductName"/>
-                <div class="card-body">
-                    <h5 class="card-title">@product.ProductName</h5>
-                    <p class="card-text">
-                        @if (product.Discount > 0)
-                        {
-                            <span><del>Giá gốc: @product.Price.ToString("C")</del> giá mới: @((product.Price - (product.Price * product.Discount)).ToString("C"))</span>
-                        }
-                        else
-                        {
-                            <span>Giá: @product.Price.ToString("C")</span>
-                        }
-                    </p>
-                    <a asp-route="Detail" asp-route-id="@product.Id" class="btn btn-success btn-block">Chi tiết</a>
+    <div class="col-md-7">
+        <div class="row">
+            @foreach (var product in products)
+            {   
+                <div class="col-12 col-sm-6 col-md-4 mb-4">
+                    <div class="card h-100">
+                        <img src="@product.Images" class="card-img-top" alt="@product.ProductName" style="height: 150px; object-fit: contain;"/>
+                        <div class="card-body">
+                            <h5 class="card-title">@product.ProductName</h5>
+                            <p class="card-text">
+                                @if (product.Discount > 0)
+                                {
+                                    <span><del>Giá gốc: @product.Price.ToString("C")</del> giá mới: @((product.Price - (product.Price * product.Discount)).ToString("C"))</span>
+                                }
+                                else
+                                {
+                                    <span>Giá: @product.Price.ToString("C")</span>
+                                }
+                            </p>
+                            <a asp-route="Detail" asp-route-id="@product.Id" class="btn btn-success btn-block">Chi tiết</a>
+                        </div>
+                    </div>  
                 </div>
-            </div>  
-        }
+            }
+        </div>
     </div>
 </div>

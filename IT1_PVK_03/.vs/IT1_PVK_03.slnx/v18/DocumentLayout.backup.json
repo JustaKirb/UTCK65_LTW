@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "IT1_PVK_03\\Views\\PVKProduct\\Detail.cshtml",
               "ToolTip": "D:\\Code\\UTCK65_LTW\\IT1_PVK_03\\IT1_PVK_03\\Views\\PVKProduct\\Detail.cshtml",
               "RelativeToolTip": "IT1_PVK_03\\Views\\PVKProduct\\Detail.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-30T16:38:28.619Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "IT1_PVK_03\\Views\\PVKProduct\\Index.cshtml",
               "ToolTip": "D:\\Code\\UTCK65_LTW\\IT1_PVK_03\\IT1_PVK_03\\Views\\PVKProduct\\Index.cshtml",
               "RelativeToolTip": "IT1_PVK_03\\Views\\PVKProduct\\Index.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvyMAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-30T15:18:26.135Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "IT1_PVK_03\\Controllers\\PVKProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T15:11:22.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T15:11:22.42Z"
             }
           ]
         }
