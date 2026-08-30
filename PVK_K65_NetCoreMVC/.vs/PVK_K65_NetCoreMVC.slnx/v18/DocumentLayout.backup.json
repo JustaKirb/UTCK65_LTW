@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Code\\UTCK65_LTW\\PVK_K65_NetCoreMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEB31641-86BC-02C7-1076-F437713D1D49}|PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC.csproj|d:\\code\\utck65_ltw\\pvk_k65_netcoremvc\\pvk_k65_netcoremvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EEB31641-86BC-02C7-1076-F437713D1D49}|PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC.csproj|solutionrelative:pvk_k65_netcoremvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEB31641-86BC-02C7-1076-F437713D1D49}|PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC.csproj|d:\\code\\utck65_ltw\\pvk_k65_netcoremvc\\pvk_k65_netcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EEB31641-86BC-02C7-1076-F437713D1D49}|PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC.csproj|solutionrelative:pvk_k65_netcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB31641-86BC-02C7-1076-F437713D1D49}|PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC.csproj|d:\\code\\utck65_ltw\\pvk_k65_netcoremvc\\pvk_k65_netcoremvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEB31641-86BC-02C7-1076-F437713D1D49}|PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC.csproj|solutionrelative:pvk_k65_netcoremvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEB31641-86BC-02C7-1076-F437713D1D49}|PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC.csproj|d:\\code\\utck65_ltw\\pvk_k65_netcoremvc\\pvk_k65_netcoremvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -22,20 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\UTCK65_LTW\\PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "PVK_K65_NetCoreMVC\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\Code\\UTCK65_LTW\\PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC\\Views\\Product\\Index.cshtml*",
-              "RelativeToolTip": "PVK_K65_NetCoreMVC\\Views\\Product\\Index.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "ToolTip": "D:\\Code\\UTCK65_LTW\\PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "PVK_K65_NetCoreMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-23T07:17:52.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-23T07:17:52.986Z"
             },
             {
               "$type": "Document",
@@ -51,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\UTCK65_LTW\\PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PVK_K65_NetCoreMVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Code\\UTCK65_LTW\\PVK_K65_NetCoreMVC\\PVK_K65_NetCoreMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PVK_K65_NetCoreMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-17T00:49:02.129Z",
               "EditorCaption": ""

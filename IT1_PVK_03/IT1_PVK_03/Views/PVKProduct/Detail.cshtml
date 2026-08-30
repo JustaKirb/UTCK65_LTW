@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Product Detail";
+    var product = ViewBag.Product;
+}
+<h2>Chi tiết sản phẩm</h2>
+<div class="row">
+    <div class="col-md-4">
+        <img src="@product.Images" style="width:100%;" />
+    </div>
+    <div class="col-md-8">
+        <h2>Sản phẩm: @product.ProductName</h2>
+        <h3>
+            @if (product.Discount > 0)
+            {
+                <span><del>Giá gốc: @product.Price.ToString("C")</del> giá mới: @((product.Price - (product.Price * product.Discount)).ToString("C"))</span>
+            }
+            else
+            {
+                <span>Giá: @product.Price.ToString("C")</span>
+            }
+        </h3>
+        <h3>Mô tả: @product.Description</h3>
+        <h3>
+            Trạng thái:
+            @if (product.Status == 1)
+            {
+                <span>Còn hàng</span>
+            }
+            else
+            {
+                <span>Hết hàng</span>
+            }
+        </h3>
+        <h3>Posted: @product.Posted</h3>
+        <p>
+            <a asp-route="Index" class="btn btn-sm btn-danger">Back to list</a>
+        </p>
+    </div>
+</div>
