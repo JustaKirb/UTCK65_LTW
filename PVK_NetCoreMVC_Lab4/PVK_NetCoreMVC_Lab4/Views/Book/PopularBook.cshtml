@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<PVK_NetCoreMVC_Lab4.Models.Book>
+@{
+}
+@foreach (var item in Model)
+{
+    <div class="col-sm-3 col-md-3 col-lg-3">
+        <div class="img-thumbnail">
+            <img src="@item.Image" style="width: 200px;" alt="" />
+            <div class="caption-top">
+                <h3>@item.Title</h3>
+                <p>
+                    Price : @item.Price
+                </p>
+            </div>
+        </div>
+    </div>
+}
