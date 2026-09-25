@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|d:\\code\\utck65_ltw\\pvklesson6\\controllers\\pvkmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|solutionrelative:controllers\\pvkmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|d:\\code\\utck65_ltw\\pvklesson6\\models\\pvkmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|solutionrelative:models\\pvkmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|d:\\code\\utck65_ltw\\pvklesson6\\views\\pvkmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|solutionrelative:views\\pvkmember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|d:\\code\\utck65_ltw\\pvklesson6\\views\\pvkmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|solutionrelative:views\\pvkmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|d:\\code\\utck65_ltw\\pvklesson6\\views\\pvkmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|solutionrelative:views\\pvkmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|d:\\code\\utck65_ltw\\pvklesson6\\views\\pvkmember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43FCBB02-AD8C-3BAE-F68A-BA5A5CD42B4C}|PVKLesson6.csproj|solutionrelative:views\\pvkmember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Views\\PvkMember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvkMember\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Views\\PvkMember\\Edit.cshtml",
+              "RelativeToolTip": "Views\\PvkMember\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T14:35:03.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Views\\PvkMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvkMember\\Index.cshtml",
+              "ToolTip": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Views\\PvkMember\\Index.cshtml",
+              "RelativeToolTip": "Views\\PvkMember\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T14:30:20.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Views\\PvkMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvkMember\\Create.cshtml",
+              "ToolTip": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Views\\PvkMember\\Create.cshtml",
+              "RelativeToolTip": "Views\\PvkMember\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T14:24:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Views\\PvkMember\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\PvkMember\\Details.cshtml",
+              "ToolTip": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Views\\PvkMember\\Details.cshtml",
+              "RelativeToolTip": "Views\\PvkMember\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T02:00:06.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PvkMemberController.cs",
+              "DocumentMoniker": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Controllers\\PvkMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PvkMemberController.cs",
+              "ToolTip": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Controllers\\PvkMemberController.cs",
+              "RelativeToolTip": "Controllers\\PvkMemberController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T00:48:57.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PvkMember.cs",
+              "DocumentMoniker": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Models\\PvkMember.cs",
+              "RelativeDocumentMoniker": "Models\\PvkMember.cs",
+              "ToolTip": "D:\\Code\\UTCK65_LTW\\PVKLesson6\\Models\\PvkMember.cs",
+              "RelativeToolTip": "Models\\PvkMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T00:46:40.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
