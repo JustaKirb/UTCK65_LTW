@@ -1,0 +1,48 @@
+@model PVKLesson7.Models.PvkMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PvkMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="PvkUsername" class="control-label"></label>
+                <input asp-for="PvkUsername" class="form-control" />
+                <span asp-validation-for="PvkUsername" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PvkPassword" class="control-label"></label>
+                <input asp-for="PvkPassword" class="form-control" />
+                <span asp-validation-for="PvkPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PvkEmail" class="control-label"></label>
+                <input asp-for="PvkEmail" class="form-control" />
+                <span asp-validation-for="PvkEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PvkPhone" class="control-label"></label>
+                <input asp-for="PvkPhone" class="form-control" />
+                <span asp-validation-for="PvkPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
