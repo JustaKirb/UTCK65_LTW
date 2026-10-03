@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PVKLesson7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6b539d592b91cc0c0a426e5130327ac35f2cadc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07e14a690112bb0b1be23d6510ea5b52e1dca9c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PVKLesson7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PVKLesson7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
