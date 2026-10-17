@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Admin cPanel</title>
+    <link rel="stylesheet" href="~/lib/boostrap/dist/css/boostrap.min.css"/>
+    @RenderSection("Css",required:false)
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm bg-dark">
+        <div class="container-fluid">
+            <ul class="navbar-nav">
+                <li>
+                    <a asp-controller="Dashboard" asp-area="Admins" asp-action="Index">Dashboard</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class=container>
+        @RenderBody()
+    </div>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/boostrap/dist/js/boostrap.js"></script>
+    @RenderSection("Scripts",required:false)
+</body>
+</html>
