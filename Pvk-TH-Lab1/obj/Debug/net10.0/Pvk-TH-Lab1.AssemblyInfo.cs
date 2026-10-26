@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("27a55aa9-1484-4739-a293-6317daea3983")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pvk-TH-Lab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80db0bf999b847dd0c26869b8b424f61ceff8279")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dbe40926fb3d53deba440410a927a21f37cb169")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pvk-TH-Lab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pvk-TH-Lab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
