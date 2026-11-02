@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Pvk_TH_Lab1.Models.Learner>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstMidName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EnrollmentDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MajorID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Major)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Enrollments)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.FirstMidName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.EnrollmentDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.MajorID)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Major)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Enrollments)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.LearnerID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.LearnerID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.LearnerID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Learner\" />
     <Folder Include="Views\Student\" />
   </ItemGroup>
 

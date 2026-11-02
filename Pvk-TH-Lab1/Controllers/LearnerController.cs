@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Pvk_TH_Lab1.Data;
 using Pvk_TH_Lab1.Models;
+using System.Security.Cryptography;
 
 namespace Pvk_TH_Lab1.Controllers
 {
@@ -13,10 +14,24 @@ namespace Pvk_TH_Lab1.Controllers
         {
             db = context;
         }
-        public IActionResult Index()
+        public IActionResult Index(int? mid)
         {
-            var learners = db.Learners.Include(m => m.Major).ToList();  
-            return View(learners);
+            if (mid == null)
+            {
+               var learners = db.Learners.Include(m => m.Major).ToList();  
+               return View(learners);
+            }
+            else
+            {
+               var learners = db.Learners.Where(l=>l.MajorID == mid).Include(m => m.Major).ToList();
+               return View(learners);
+            }
+        }
+
+        public IActionResult LearnerByMajorID(int mid)
+        {
+            var learners = db.Learners.Where(l => l.MajorID == mid).Include(m => m.Major).ToList();
+            return PartialView("LearnerTable",learners);
         }
 
         public IActionResult Create()

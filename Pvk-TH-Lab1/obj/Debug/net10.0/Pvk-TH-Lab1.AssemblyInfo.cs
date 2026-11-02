@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pvk-TH-Lab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dbe40926fb3d53deba440410a927a21f37cb169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b376196b79a0cf4a2cb513e337afacad5742128")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pvk-TH-Lab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pvk-TH-Lab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
